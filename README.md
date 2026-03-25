@@ -69,4 +69,4 @@ main(speech_lang="en")   # English
 
 ## Requirements
 
-See `requirements.txt`. Requires an OpenAI API key for Whisper and GPT-4 Vision.
+Additionally requires an OpenAPI key to run GPT-4
