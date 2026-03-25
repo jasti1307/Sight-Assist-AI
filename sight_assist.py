@@ -153,7 +153,6 @@ def text_translation(text, target_lang="German"):
     translated_text = t5_tokenizer.decode(outputs[0], skip_special_tokens=True)
     return translated_text
 
-
 def text_to_speech(text, lang="hi", output_path="output.mp3"):
     """Convert text to speech using gTTS and play audio."""
     if not text:
