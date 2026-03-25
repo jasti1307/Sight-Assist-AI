@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Audio/Image temp files
+*.mp3
+*.wav
+captured_image.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/

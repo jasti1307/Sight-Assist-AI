@@ -1,0 +1,11 @@
+openai
+opencv-python
+torch
+transformers
+Pillow
+gTTS
+sounddevice
+numpy
+sentencepiece
+python-dotenv
+IPython
